@@ -1,6 +1,0 @@
-com\alten\shop\model\Product.class
-com\alten\shop\service\ProductService.class
-com\alten\shop\controller\ProductController.class
-com\alten\shop\service\ProductService$1.class
-com\alten\shop\ShopApplication.class
-com\alten\shop\repository\ProductRepository.class
